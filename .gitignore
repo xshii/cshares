@@ -1,6 +1,8 @@
 # vscode
 .vscode/
 .DS_Store
+# Python 
+venv/
 # Prerequisites
 *.d
 
